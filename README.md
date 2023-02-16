@@ -1,4 +1,4 @@
-**Penguins_Data_Analysis,_Data_Visualisation,_and_Machine_Learning**
+**Penguins Data Analysis, Data Visualisation, and Machine Learning**
 
 
 *Description*
