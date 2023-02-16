@@ -1,6 +1,3 @@
-# Penguins_DA_DV_ML
-Demonstration of Data Analysis and Data Visualisation using the penguins dataset, accompanied by a Machine Learning Project predicting Penguin Sex and Species.
-
 **Penguins_Data_Analysis,_Data_Visualisation,_and_Machine_Learning**
 
 
